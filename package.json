@@ -1,13 +1,13 @@
 {
   "name": "automaticdrumpftroller",
   "version": "1.0.0",
-  "description": "",
+  "description": "The Automatic Drumpf Troller generates random Trump nicknames as seen on late-night TV shows. Made for r/drumpfisfinished.  ",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ['drumpf', 'politics', 'john oliver', 'orange man bad'],
+  "author": "huwthecreator",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
