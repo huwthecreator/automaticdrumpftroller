@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": ['drumpf', 'politics', 'john oliver', 'orange man bad'],
+  "keywords": ["drumpf", "politics", "john oliver", "orange man bad"],
   "author": "huwthecreator",
   "license": "ISC",
   "dependencies": {
